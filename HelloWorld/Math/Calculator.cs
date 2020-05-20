@@ -9,6 +9,8 @@ namespace HelloWorld.Math
         public int Add(int a, int b)
         {
         return a + b;
+
+        //this is a test comment
         }
     }
 }
